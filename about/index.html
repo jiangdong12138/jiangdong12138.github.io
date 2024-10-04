@@ -186,7 +186,7 @@
       func({
         el: '#waline-comments',
         path: location.pathname,
-        serverURL: 'waline.qaqan.cn',
+        serverURL: 'https://waline.qaqan.cn/',
         emoji: false,
         dark: 'auto',
         requiredMeta: ['nick', 'mail'],
@@ -214,7 +214,7 @@
 
 
   
-    <script async type="text/javascript" src="/plugins/valine.min.js" onload="loadValineSuc(this)"></script>
+    <script async type="text/javascript" src='https://cdn.jsdelivr.net/npm/valine@1.4.18/dist/Valine.min.js' onload="loadValineSuc(this)"></script>
   
 
   <div id="vcomments"></div>
@@ -225,7 +225,7 @@
         el: '#vcomments',
         appId: 'zZ1tKLEe53wFaRW9S0Uyhw9X-MdYXbMMI',
         appKey: 'CqYym1ozBlljpA2s8bCTUKAy',
-        placeholder: 'Welcome!',
+        placeholder: '在此键入评论，昵称选用QQ号可获取相应头像。',
         avatar: 'retro',
         lang: 'ch'
       })
