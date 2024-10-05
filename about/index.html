@@ -188,34 +188,39 @@
     
       <div class="comments-container">
         
-
-
-
-
-  
-    <script async type="text/javascript" src="/plugins/valine.min.js" onload="loadValineSuc(this)"></script>
-  
-
-  <div id="vcomments"></div>
+  <div id="waline-comments"></div>
 
   <script>
-    function loadValineSuc() {
-      new Valine({
-        el: '#vcomments',
-        appId: 'zZ1tKLEe53wFaRW9S0Uyhw9X-MdYXbMMI',
-        appKey: 'CqYym1ozBlljpA2s8bCTUKAy',
-        placeholder: '在此键入评论。',
-        avatar: 'retro',
+    function loadWalineSuc(func) {
+      func({
+        el: '#waline-comments',
+        path: location.pathname,
+        serverURL: 'waline.qaqan.cn',
+        emoji: false,
+        dark: 'auto',
+        requiredMeta: ['nick', 'mail'],
+        wordLimit: 150,
+        imageUploader: false,
+        search: false,
+        reaction: false,
+        pageSize: 30,
         lang: 'ch'
       })
     }
   </script>
 
-    <style>
-      .comments-container .v .vempty {
-        display: none!important;
-      }
-    </style>
+  
+    <link rel="stylesheet" href="">
+    <script type="module">
+      import { init } from ''
+      loadWalineSuc(init)
+    </script>
+  
+
+
+
+
+
 
 
 
