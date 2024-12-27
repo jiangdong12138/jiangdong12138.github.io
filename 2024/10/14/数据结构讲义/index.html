@@ -1255,34 +1255,31 @@ O(N+E)</li>
   <div id="waline-comments"></div>
 
   <script>
-    function loadWalineSuc() {
-      // 使用 init 初始化
-      init({
-        el: '#waline-comments',  // 评论容器
-        path: location.pathname,  // 当前页面路径
-        serverURL: 'waline.qaqan.cn',  // Waline 服务端 URL
-        emoji: false,  // 是否启用表情
-        dark: 'auto',  // 暗黑模式自动切换
-        requiredMeta: ['nick', 'mail'],  // 必填字段
-        wordLimit: 150,  // 字数限制
-        imageUploader: false,  // 禁用图片上传
-        search: false,  // 禁用搜索
-        reaction: false,  // 禁用表情反应
-        pageSize: 30,  // 每页显示评论数
-        lang: 'zh-CN'  // 语言设置
-      });
+    function loadWalineSuc(func) {
+      func({
+        el: '#waline-comments',
+        path: location.pathname,
+        serverURL: 'waline.qaqan.cn',
+        emoji: true,
+        dark: 'html[color-mode="dark"]',
+        requiredMeta: ['nick'],
+        wordLimit: 150,
+        imageUploader: false,
+        search: false,
+        reaction: false,
+        pageSize: 30,
+        lang: 'zh-CN'
+      })
     }
   </script>
 
   
     <link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css">
     <script type="module">
-      // 通过新版 API 导入 Waline
-      import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
-      loadWalineSuc();
+      import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js'
+      loadWalineSuc(init)
     </script>
   
-
 
 
 
