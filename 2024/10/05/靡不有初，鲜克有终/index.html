@@ -224,7 +224,8 @@
 
   <script>
     function loadWalineSuc() {
-      Waline.init({
+      // 使用 init 初始化
+      init({
         el: '#waline-comments',  // 评论容器
         path: location.pathname,  // 当前页面路径
         serverURL: 'waline.qaqan.cn',  // Waline 服务端 URL
@@ -237,17 +238,19 @@
         reaction: false,  // 禁用表情反应
         pageSize: 30,  // 每页显示评论数
         lang: 'zh-CN'  // 语言设置
-      })
+      });
     }
   </script>
 
   
     <link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css">
     <script type="module">
-      import { Waline } from 'https://unpkg.com/@waline/client@v3/dist/waline.js'
-      loadWalineSuc()
+      // 通过新版 API 导入 Waline
+      import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+      loadWalineSuc();
     </script>
   
+
 
 
 
