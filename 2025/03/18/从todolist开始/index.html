@@ -16,7 +16,7 @@
   
   <title>
     
-      Category 
+      从todolist开始 
       
       
       |
@@ -143,19 +143,95 @@
 
 
   
-  <!-- 分类页 url形式：https://yoursite/categories/ -->
-  <div class="container category-index">
-    <div>
-      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%AD%A6%E7%82%B9%E4%BB%80%E4%B9%88/">学点什么</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%AF%B4%E7%82%B9%E4%BB%80%E4%B9%88/">说点什么</a><span class="category-list-count">2</span></li></ul>
+
+  
+
+  
+
+  
+  <!-- 文章内容页 url形式：https://yoursite/文章标题/ -->
+  <div class="container post-details" id="post-details">
+    <div class="post-content">
+      <div class="post-title">从todolist开始</div>
+      <div class="post-attach">
+        <span class="post-pubtime">
+          <i class="iconfont icon-updatetime mr-10" title="更新时间"></i>
+          2025-03-18 22:18:32
+        </span>
+        
+      </div>
+      <div class="markdown-body">
+        <p><strong>痛下决心，努力编程。</strong></p>
+
+      </div>
+      
+        <div class="prev-or-next">
+          <div class="post-foot-next">
+            
+              <a href="/2024/12/24/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A4%A7%E4%BD%9C%E4%B8%9A%E7%95%99%E5%BF%B5/" target="_self">
+                <i class="iconfont icon-chevronleft"></i>
+                <span>上一页</span>
+              </a>
+            
+          </div>
+          <div class="post-attach">
+            <span class="post-pubtime">
+              <i class="iconfont icon-updatetime mr-10" title="更新时间"></i>
+              2025-03-18 22:18:32
+            </span>
+            
+          </div>
+          <div class="post-foot-prev">
+            
+          </div>
+        </div>
+      
     </div>
+    
+
+    
+      <div class="comments-container">
+        
+  <div id="waline-comments"></div>
+
+  <script>
+    function loadWalineSuc(func) {
+      func({
+        el: '#waline-comments',
+        path: location.pathname,
+        serverURL: 'waline.qaqan.cn',
+        emoji: true,
+        dark: 'html[color-mode="dark"]',
+        requiredMeta: ['nick'],
+        wordLimit: 150,
+        imageUploader: false,
+        search: false,
+        reaction: false,
+        pageSize: 30,
+        lang: 'zh-CN'
+      })
+    }
+  </script>
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css">
+    <script type="module">
+      import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js'
+      loadWalineSuc(init)
+    </script>
+  
+
+
+
+
+
+
+
+
+      </div>
+    
   </div>
-  
 
-  
-
-  
-
-  
 
         
 <div class="footer">
