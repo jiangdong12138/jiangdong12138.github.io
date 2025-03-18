@@ -8,7 +8,7 @@
       <link href="/2025/03/18/%E4%BB%8Etodolist%E5%BC%80%E5%A7%8B/"/>
       <url>/2025/03/18/%E4%BB%8Etodolist%E5%BC%80%E5%A7%8B/</url>
       
-        <content type="html"><![CDATA[<p><strong>痛下决心，努力编程。</strong></p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>面对大河我无限惭愧，我年华虚度空有一身疲倦</p></blockquote><h2 id="1-Todolist">1. Todolist</h2><h3 id="功能列表">功能列表</h3><ol><li><strong>添加任务</strong>（输入任务内容，保存到文件）</li><li><strong>查看任务</strong>（从文件读取并显示所有任务）</li><li><strong>标记完成</strong>（将任务状态更新为已完成）</li><li><strong>删除任务</strong>（从任务列表中删除某个任务）</li><li><strong>任务持久化存储</strong>（程序关闭后仍然保存任务）</li></ol><hr><h3 id="任务拆解">任务拆解</h3><table><thead><tr><th>任务</th><th>关键点</th></tr></thead><tbody><tr><td>任务存储</td><td>采用 <strong>文本文件</strong>（tasks.txt）保存任务数据</td></tr><tr><td>任务管理</td><td><strong>结构体</strong> <code>struct Task</code> 维护任务信息</td></tr><tr><td>任务操作</td><td><strong>动态数组 / 链表</strong> 存储任务列表</td></tr><tr><td>用户交互</td><td><strong>命令行输入解析</strong>，支持 <code>add</code>、<code>list</code>、<code>done</code>、<code>remove</code></td></tr></tbody></table>]]></content>
       
       
       
