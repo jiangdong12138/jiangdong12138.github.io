@@ -4,12 +4,37 @@
   
     
     <entry>
+      <title>MovieReview</title>
+      <link href="/2025/03/30/MovieReview/"/>
+      <url>/2025/03/30/MovieReview/</url>
+      
+        <content type="html"><![CDATA[<p><strong>Movie Review: Forrest Gump</strong></p><p><img src="/images/Poster.webp" alt="Forrest Gump Poster">  <!-- 插入电影海报 --></p><hr><h2 id="Introduction"><strong>Introduction</strong></h2><p><em>“Life is like a box of chocolates. You never know what you’re gonna get.”</em></p><p>“Forrest Gump” is a classic 1994 film directed by <strong>Robert Zemeckis</strong> and starring <strong>Tom Hanks</strong>. The movie follows Forrest Gump, a kind-hearted man with a low IQ who unintentionally influences key historical events in the United States.</p><p>Besides being an emotionally touching story, this film is also <strong>a great resource for English learners</strong>! It contains many <strong>useful idioms, slang, and sentence structures</strong>, making it an ideal choice for improving listening and comprehension skills.</p><hr><h2 id="Plot-Summary"><strong>Plot Summary</strong></h2><p><strong>Forrest’s Childhood</strong> – Overcomes physical disabilities with leg braces.<br><strong>Football Star</strong> – Earns a college scholarship by running fast.<br><strong>Vietnam War</strong> – Becomes a war hero and meets his best friend, Bubba.<br><strong>Shrimp Business</strong> – Fulfills Bubba’s dream and becomes rich.<br><strong>Jenny’s Story</strong> – A heartbreaking love story intertwined with his journey.</p><p>Forrest experiences some of the most important events in American history, all while staying true to his <strong>kind and simple nature</strong>.</p><p><img src="/images/run.webp" alt="Forrest Running Scene">  <!-- 插入 Forrest 经典奔跑画面 --></p><hr><h2 id="Key-English-Learning-Points"><strong>Key English Learning Points</strong></h2><h3 id="1-Idioms-Slang-in-the-Movie"><strong>1. Idioms &amp; Slang in the Movie</strong></h3><p>“Forrest Gump” is filled with common <strong>American idioms and expressions</strong>. Here are some highlights:</p><p>🔹 <strong>“Life is like a box of chocolates. You never know what you’re gonna get.”</strong><br>Meaning: Life is full of surprises.<br><em>“gonna”</em> is a casual way to say <em>“going to”</em>, common in spoken English.</p><p>🔹 <strong>“Stupid is as stupid does.”</strong><br>Meaning: Intelligence is shown through actions, not words.<br>Structure Tip: Repeating words in an unusual way can emphasize meaning.</p><p>🔹 <strong>“Run, Forrest, run!”</strong><br>This phrase became a pop culture reference, often used humorously to encourage someone to move faster.</p><hr><h3 id="2-Useful-Sentence-Structures"><strong>2. Useful Sentence Structures</strong></h3><p>The movie is a great source of <strong>real-life English sentence patterns</strong>:</p><p><strong>First-Person Narrative</strong></p><blockquote><p><em>“My mama always said, ‘Life was like a box of chocolates.’”</em><br><strong>Why it’s useful?</strong><br>This is an example of a <strong>past habit (“always said”)</strong> and reported speech.</p></blockquote><p><strong>Past Tense Usage</strong></p><blockquote><p><em>“I was running.”</em> / <em>“I had been running for three years.”</em><br><strong>Why it’s useful?</strong><br>It demonstrates the difference between <strong>past continuous (“was running”)</strong> and <strong>past perfect continuous (“had been running”)</strong>.</p></blockquote><p><strong>Conditional Sentences</strong></p><blockquote><p><em>“If I’d known that was the last time I was going to talk to Bubba, I would’ve said something better.”</em><br><strong>Why it’s useful?</strong><br>A great example of a <strong>third conditional sentence (if + past perfect, would have + past participle)</strong>.</p></blockquote><hr><h2 id="American-Culture-History-in-the-Film"><strong>American Culture &amp; History in the Film</strong></h2><p>One of the fascinating aspects of “Forrest Gump” is its <strong>connection to real historical events</strong>. Watching the movie can improve your understanding of <strong>American culture</strong> while improving your English skills.</p><h3 id="Historical-References-in-the-Movie"><strong>Historical References in the Movie</strong></h3><p><strong>Vietnam War</strong> – Forrest becomes a soldier and saves his friend Bubba.<br><strong>Civil Rights Movement</strong> – Forrest unknowingly influences major events.<br><strong>Watergate Scandal</strong> – He accidentally uncovers the scandal.<br><strong>1980s Tech Boom</strong> – Forrest invests in “some fruit company” (Apple 🍏).</p><p><img src="/images/president.jpg" alt="Forrest meets the President">  <!-- 插入 Forrest Gump 见总统的片段 --></p><hr><h2 id="Tips-for-Learning-English-with-Forrest-Gump"><strong>Tips for Learning English with Forrest Gump</strong></h2><p><strong>Step 1</strong> – Watch with <strong>English subtitles</strong> to catch new words.<br><strong>Step 2</strong> – Take notes on interesting phrases.<br><strong>Step 3</strong> – Repeat key dialogues to improve pronunciation.<br><strong>Step 4</strong> – Rewatch key scenes <strong>without subtitles</strong> to test comprehension.</p><hr><h2 id="Final-Thoughts"><strong>Final Thoughts</strong></h2><p>“Forrest Gump” is more than just a movie—it’s <strong>a life lesson</strong> and <strong>a fantastic English learning tool</strong>. The <strong>slow and clear dialogue</strong>, combined with <strong>iconic quotes</strong>, makes it perfect for English learners.</p><p><strong>Do I recommend it?</strong> <strong>Absolutely!</strong> Whether you’re learning English or just looking for an inspiring story, this film is a must-watch!</p><p><img src="/images/sit.webp" alt="Forrest Gump Bench Scene">  <!-- 插入阿甘坐在长椅上的经典画面 --></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 做作业 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>java学习</title>
       <link href="/2025/03/26/java%E5%AD%A6%E4%B9%A0/"/>
       <url>/2025/03/26/java%E5%AD%A6%E4%B9%A0/</url>
       
-        <content type="html"><![CDATA[<h1>Java 学习路径</h1><h2 id="学习计划">学习计划</h2><ul><li>[ ] 掌握 Java 基础语法</li><li>[ ] 学习面向对象编程（OOP）概念</li><li>[ ] 熟悉常用数据结构和算法</li><li>[ ] 学习 Java 标准库（如集合框架、IO 等）</li><li>[ ] 掌握多线程编程</li><li>[ ] 学习网络编程</li><li>[ ] 完成一个小型项目</li></ul><h2 id="学习情况">学习情况</h2><h3 id="Day-0：">Day 0：</h3><pre><code>新建了文件夹。</code></pre>]]></content>
+        <content type="html"><![CDATA[<h1>Java 学习路径</h1><h2 id="学习计划">学习计划</h2><ul><li>[ ] 掌握 Java 基础语法</li><li>[ ] 学习面向对象编程（OOP）概念</li><li>[ ] 熟悉常用数据结构和算法</li><li>[ ] 学习 Java 标准库（如集合框架、IO 等）</li><li>[ ] 掌握多线程编程</li><li>[ ] 学习网络编程</li><li>[ ] 完成一个小型项目</li></ul><h2 id="学习情况">学习情况</h2><h3 id="Day-0：">Day 0：</h3><pre><code>新建了文件夹。</code></pre><h3 id="Day-5">Day 5:</h3><pre><code>啥也没干。后天要去讲数据库了放一放。</code></pre>]]></content>
       
+      
+      <categories>
+          
+          <category> 学点什么 </category>
+          
+      </categories>
       
       
     </entry>
@@ -78,7 +103,7 @@
       <link href="/2024/10/05/%E9%9D%A1%E4%B8%8D%E6%9C%89%E5%88%9D%EF%BC%8C%E9%B2%9C%E5%85%8B%E6%9C%89%E7%BB%88/"/>
       <url>/2024/10/05/%E9%9D%A1%E4%B8%8D%E6%9C%89%E5%88%9D%EF%BC%8C%E9%B2%9C%E5%85%8B%E6%9C%89%E7%BB%88/</url>
       
-        <content type="html"><![CDATA[<p>似乎下定了很多次决心来写博客，一直没有坚持下去。固然，“生活是沉闷和孤单的总和”，现实的平淡乏味是写文章最大的阻力。但我想，一定有一些东西是可以被纪念而成文的。</p><p>曾经记下的东西是如此冗杂：看演出、拍景色、偶尔发奋，无病呻吟。我不怀疑那些写下又很快删掉的文字的确出自真心，只是某个瞬间的强烈感情只在当时有意义。值得写下的到底是什么东西？我们至少可以做排除法：一定不是嘈杂的呐喊、一定不是做作地顾影自怜、一定不是要写给别人看的东西。区别于其他社交媒体，我希望博客能让我更加关心文字本身，而不需要依靠九宫格、emoji、表情包和流行梗来替我说话。对这些流行介质的过度依赖，事实上萎缩了人们的喉舌，除了表达能力的下降，人们过去几十年内使用的美好词汇正在被互联网消解。我不要用那些“预制感情”来替代我本应健康的感情。</p><p>我相信仍有一些东西能让我产生“写点什么”的欲望：曾让我觉得一生只会激荡起一次的感情、跟人们产生的圆满或者结局很不堪的交际、特别幸福或特别难过的时刻。在更多的没有“写点什么”的日子，我希望生活会绕过狂暴的波澜，确凿地驶向幸福的彼岸。</p><p>以这句话作结是再好不过的了：</p><blockquote><p><strong>一直游到海水变蓝。</strong></p></blockquote>]]></content>
+        <content type="html"><![CDATA[<p>似乎下定了很多次决心来写博客，一直没有坚持下去。固然，“生活是沉闷和孤单的总和”，现实的平淡乏味是写文章最大的阻力。但我想，一定有一些东西是可以被纪念而成文的。</p><p>曾经记下的东西是如此冗杂：看演出、拍景色、偶尔发奋，无病呻吟。我不怀疑那些写下又很快删掉的文字的确出自真心，只是某个瞬间的强烈感情只在当时有意义。值得写下的到底是什么东西？至少可以做排除法：一定不是嘈杂的呐喊、一定不是做作地顾影自怜、一定不是要写给别人看的东西。<br>区别于其他社交媒体，我希望博客能让我更加关心文字本身，而不需要依靠九宫格、emoji、表情包和流行梗。对流行介质的过度依赖，会萎缩我的喉舌。</p><p>我相信仍有一些东西能让我产生“写点什么”的欲望：让我觉得一生只会激荡起一次的感情、跟人们产生的交际、特别幸福和特别难过的时刻。</p>]]></content>
       
       
       <categories>
