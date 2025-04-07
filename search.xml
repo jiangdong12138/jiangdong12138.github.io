@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>4.6 刺猬 我疯了</title>
+      <link href="/2025/04/07/4-6%E6%88%91%E7%96%AF%E4%BA%86/"/>
+      <url>/2025/04/07/4-6%E6%88%91%E7%96%AF%E4%BA%86/</url>
+      
+        <content type="html"><![CDATA[<p>认识刺猬也是在那个暑假，5年过去终于看到现场，留下纪念。特别喜欢那种以头抢地的生命力。</p><p><img src="/images/cw_post.jpg" alt="logo"></p><center/><i>歌词<i><center/><p><img src="/images/cw_1.jpg" alt="1"></p><center/><i>赵子建。<i><center/><p><img src="/images/cw_2.jpg" alt="2"></p><center/><i>西西 键盘<i><center/><p><img src="/images/cw_3.jpg" alt="3"></p><center/><i>一帆<i><center/><p><video src="/images/cw_live.mp4" position= "absolute" width="100%" height="100%" controls="controls"></video></p><center/><i>现场<i><center/>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学点什么 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MovieReview</title>
       <link href="/2025/03/30/MovieReview/"/>
       <url>/2025/03/30/MovieReview/</url>
@@ -27,7 +46,7 @@
       <link href="/2025/03/26/java%E5%AD%A6%E4%B9%A0/"/>
       <url>/2025/03/26/java%E5%AD%A6%E4%B9%A0/</url>
       
-        <content type="html"><![CDATA[<h1>Java 学习路径</h1><h2 id="学习计划">学习计划</h2><ul><li>[ ] 掌握 Java 基础语法</li><li>[ ] 学习面向对象编程（OOP）概念</li><li>[ ] 熟悉常用数据结构和算法</li><li>[ ] 学习 Java 标准库（如集合框架、IO 等）</li><li>[ ] 掌握多线程编程</li><li>[ ] 学习网络编程</li><li>[ ] 完成一个小型项目</li></ul><h2 id="学习情况">学习情况</h2><h3 id="Day-0：">Day 0：</h3><pre><code>新建了文件夹。</code></pre><h3 id="Day-5">Day 5:</h3><pre><code>啥也没干。后天要去讲数据库了放一放。</code></pre>]]></content>
+        <content type="html"><![CDATA[<h1>Java 学习路径</h1><h2 id="学习计划">学习计划</h2><ul><li>[ ] 掌握 Java 基础语法</li><li>[ ] 学习面向对象编程（OOP）概念</li><li>[ ] 熟悉常用数据结构和算法</li><li>[ ] 学习 Java 标准库（如集合框架、IO 等）</li><li>[ ] 掌握多线程编程</li><li>[ ] 学习网络编程</li><li>[ ] 完成一个小型项目</li></ul><h2 id="学习情况">学习情况</h2><h3 id="Day-0：">Day 0：</h3><pre><code>新建了文件夹。</code></pre><h3 id="Day-5">Day 5:</h3><pre><code>啥也没干。后天要去讲数据库了放一放。</code></pre><h4 id="Day-N">Day N:</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">哎呦又啥也没干，我的智力就这么刚好够抄完各种作业。</span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
